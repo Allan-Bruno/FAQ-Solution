@@ -84,7 +84,7 @@ p {
 @media (max-width: 499px) {
   #background {
     width: 100vw;
-    height: fit-content;
+    height: 100vh;
     padding-top: 2rem;
     padding-bottom: 9.5vh;
   }
