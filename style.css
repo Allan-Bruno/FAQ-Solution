@@ -92,7 +92,7 @@ p {
   .container {
     display: flex;
     flex-direction: column;
-    height: fit-content;
+    height: 90vh;
   }
 
   #vector-mobile {
