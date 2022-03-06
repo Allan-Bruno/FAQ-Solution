@@ -84,7 +84,7 @@ p {
 @media (max-width: 499px) {
   #background {
     width: 100vw;
-    height: 100vh;
+    height: fit-content;
     padding-top: 2rem;
     padding-bottom: 9.5vh;
   }
@@ -92,7 +92,7 @@ p {
   .container {
     display: flex;
     flex-direction: column;
-    height: 90vh;
+    height: max-content;
   }
 
   #vector-mobile {
@@ -106,6 +106,7 @@ p {
 
   #questions {
     width: 86%;
+    height: 80%;
   }
 
   #FAQ {
